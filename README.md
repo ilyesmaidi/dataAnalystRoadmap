@@ -82,37 +82,37 @@ Ideal for aspiring data analysts aiming to launch their careers with industry-re
 
 ### 🌐 Arabic-Friendly Notes
 
-# Recommended Courses
+# Recommended English Courses
 
-## 1. Data Analysis with Python (Arabic playlist)  
-**Publisher:** ALMUNTHIR SAFFAN (Arabic)  
-**Content:** Jupyter setup, data import & cleaning, analysis, visualization.  
-**Language:** Arabic (with code examples in Python)  
-**YouTube:** [Playlist link]()
-
----
-
-## 2. Microsoft Excel (Arabic tutorial)  
-**Publisher:** Eng‑Fouad Musbah (example)  
-**Content:** Excel cell formatting, formulas, navigation in Arabic Excel UI.  
-**Language:** Arabic  
-**YouTube:** [Video link]()
-
----
-
-## 3. Data Analytics Course (English)  
-**Publisher:** Intellipaat & Analyst Builder  
-**Content:** Full-stack analytics: Python, Excel, Power BI, dashboards, real-world projects.  
+## 1. Python for Data Analytics – Luke Barousse  
+**Publisher:** Luke Barousse  
+**Content:** Python basics, Pandas analysis, EDA, visualization  
 **Language:** English  
-**YouTube:** [Full course video link]()
+**YouTube video:** https://www.youtube.com/watch?v=wUSDVGivd-8
 
 ---
 
-## ✅ Tips for Using These:
-- Start with the **Arabic Python playlist** to build foundational skills.
-- Use the **Excel Arabic tutorial** for spreadsheet proficiency in Arabic UI.
-- Advance to the **English data analytics course** to deepen analytics knowledge and work in international environments.
+## 2. Data Analysis with Python – freeCodeCamp.org  
+**Publisher:** freeCodeCamp.org  
+**Content:** Numpy, Pandas, Matplotlib & Seaborn, data cleaning, multi-source ingestion  
+**Language:** English  
+**YouTube playlist:** https://www.youtube.com/playlist?list=PLodYDTuHA29YIff8B2a0ILdFrQ4WqvHwh
 
+---
+
+## 3. Python for Data Analytics Full Course 2025 – Simplilearn  
+**Publisher:** Simplilearn  
+**Content:** Extensive full‑stack course including projects in scraping, EDA, portfolio builds  
+**Language:** English  
+**YouTube video:** https://www.youtube.com/watch?v=T73MKBD_UKA
+
+---
+
+## 4. Change Excel Language from Arabic to English  
+**Publisher:** Tech Pro Advice  
+**Content:** Tutorial to switch Excel interface from Arabic to English via Office settings  
+**Language:** English  
+**YouTube video:** https://www.youtube.com/watch?v=bPWDkZy9BWg
 
 ---
 
