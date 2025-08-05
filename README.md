@@ -82,8 +82,37 @@ Ideal for aspiring data analysts aiming to launch their careers with industry-re
 
 ### 🌐 Arabic-Friendly Notes
 
-- دورات مثل *Excel Skills for Business* تدعم ترجمة عربية، مما يسهل متابعة المحتوى من الناطقين بالعربية :contentReference[oaicite:10]{index=10}.  
-- دورة *Python for Everybody* متاحة بالعربية أيضًا تحت عنوان "البرمجة للجميع" مقدمة من جامعة ميتشيغان :contentReference[oaicite:11]{index=11}.
+# Recommended Courses
+
+## 1. Data Analysis with Python (Arabic playlist)  
+**Publisher:** ALMUNTHIR SAFFAN (Arabic)  
+**Content:** Jupyter setup, data import & cleaning, analysis, visualization.  
+**Language:** Arabic (with code examples in Python)  
+**YouTube:** [Playlist link]()
+
+---
+
+## 2. Microsoft Excel (Arabic tutorial)  
+**Publisher:** Eng‑Fouad Musbah (example)  
+**Content:** Excel cell formatting, formulas, navigation in Arabic Excel UI.  
+**Language:** Arabic  
+**YouTube:** [Video link]()
+
+---
+
+## 3. Data Analytics Course (English)  
+**Publisher:** Intellipaat & Analyst Builder  
+**Content:** Full-stack analytics: Python, Excel, Power BI, dashboards, real-world projects.  
+**Language:** English  
+**YouTube:** [Full course video link]()
+
+---
+
+## ✅ Tips for Using These:
+- Start with the **Arabic Python playlist** to build foundational skills.
+- Use the **Excel Arabic tutorial** for spreadsheet proficiency in Arabic UI.
+- Advance to the **English data analytics course** to deepen analytics knowledge and work in international environments.
+
 
 ---
 
