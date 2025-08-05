@@ -9,16 +9,16 @@ A refined overview of four top-rated Coursera credentials to kickstart your care
 ## 1. Google Data Analytics Professional Certificate *(Coursera)*
 
 - **Designed by Google**, this beginner-friendly certification covers SQL, R programming, spreadsheet analytics, Tableau, and data storytelling—all in ~6 months at 10 hrs/week.  
-- Widely praised for depth and practicality: rated ~4.8 by over 100K learners, with many reporting career improvements within 6 months :contentReference[oaicite:1]{index=1}.  
-- **Official Link:** https://www.coursera.org/professional-certificates/google-data-analytics :contentReference[oaicite:2]{index=2}
+- Widely praised for depth and practicality: rated ~4.8 by over 100K learners, with many reporting career improvements within 6 months.  
+- **Official Link:** https://www.coursera.org/professional-certificates/google-data-analytics 
 
 ---
 
 ## 2. IBM Data Analyst Professional Certificate *(Coursera)*
 
 - Structured as **nine applied courses + capstone**, focusing on Python, Excel, SQL, dashboarding (including Cognos & Tableau).  
-- Ideal for hands-on learners; learners praise its real-world relevance and comprehensive content :contentReference[oaicite:3]{index=3}.  
-- **Official Link:** https://www.coursera.org/professional-certificates/ibm-data-analyst :contentReference[oaicite:4]{index=4}
+- Ideal for hands-on learners; learners praise its real-world relevance and comprehensive content.  
+- **Official Link:** https://www.coursera.org/professional-certificates/ibm-data-analyst 
 
 ---
 
@@ -26,15 +26,15 @@ A refined overview of four top-rated Coursera credentials to kickstart your care
 
 - Expertly led by Dr. Charles Severance ("Dr. Chuck"), this five‑course series teaches Python from scratch: programming basics, data structures, web scraping, and a capstone.  
 - Celebrated for its approachable teaching style and applicability to beginners and analysts alike :contentReference[oaicite:5]{index=5}.  
-- **Official Link:** https://www.coursera.org/specializations/python :contentReference[oaicite:6]{index=6}
+- **Official Link:** https://www.coursera.org/specializations/python 
 
 ---
 
 ## 4. Excel Skills for Business Specialization *(Macquarie University / Coursera)*
 
 - Four-course pathway from Essentials to Advanced Excel: formulas, PivotTables, Power Query, dashboards, automation, and forecasting.  
-- Rated 4.9/5 by ~48K learners; praised for practical workbook-based exercises and real-world problem solving :contentReference[oaicite:7]{index=7}.  
-- **Official Link:** https://www.coursera.org/specializations/excel :contentReference[oaicite:8]{index=8}
+- Rated 4.9/5 by ~48K learners; praised for practical workbook-based exercises and real-world problem solving .  
+- **Official Link:** https://www.coursera.org/specializations/excel
 
 ---
 
